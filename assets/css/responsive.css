@@ -27,6 +27,7 @@
 @media (max-width: 740px) {
     .btn {
         border-radius: 5px;
+        -webkit-appearance: none;
     }
     .s-full-width {
         width: 100% !important;
