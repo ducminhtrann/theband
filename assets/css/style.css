@@ -201,7 +201,6 @@ nav .nav-arrow-down {
     margin-top: 46px;
     padding-top: 50%;
     /* chieu cao bang 50% chieu ngang cua chinh no*/
-    background: url('./assets/img/slider/silder1.jpg') top center / cover no-repeat;
     transition: all 0.1s ease-in-out;
 }
 
