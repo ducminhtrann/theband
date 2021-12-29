@@ -76,6 +76,7 @@ html {
     color: #fff;
     display: inline-block;
     border: none;
+    appearance: none;
     -webkit-appearance: none;
 }
 
